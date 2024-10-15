@@ -20,7 +20,7 @@ Navigate to the cloned directory of this repository.
 
 Run the following command:
 
-Copy code
+Copy code:
 docker-compose up -d
 
 That's it! Your mocking service for the API definition is now running.
